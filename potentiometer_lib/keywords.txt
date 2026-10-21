@@ -1,0 +1,6 @@
+Potentiometer	KEYWORD1
+read	        KEYWORD2
+readTension	    KEYWORD2
+readInRange	    KEYWORD2
+readSerial	    KEYWORD2
+MAX_READ	    LITERAL1
